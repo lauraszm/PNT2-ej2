@@ -1,5 +1,8 @@
-h1 {
+*{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
     font-size: 3rem;
     color: crimson;
 }
@@ -11,4 +14,9 @@ p {
 p span {
     font-weight: 600;
     color: firebrick;
+}
+
+.extra {
+    font-size: 2rem;
+    color: rgb(2, 69, 12);
 }
