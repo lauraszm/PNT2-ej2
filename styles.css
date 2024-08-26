@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3rem;
+    color: crimson;
+}
+
+p {
+    font-weight: 400;
+}
+
+p span {
+    font-weight: 600;
+    color: firebrick;
+}
